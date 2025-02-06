@@ -1,0 +1,24 @@
+{
+  "name": "react_learning_part01",
+  "version": "1.0.0",
+  "description": "React Learning Part 01",
+  "license": "ISC",
+  "author": "Himanshu Soni",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
